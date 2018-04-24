@@ -1,0 +1,103 @@
+$optimum
+[1] 0.03
+
+$valueFunctions
+$valueFunctions$`System operacyjny iOS`
+  [,1] [,2]
+x    9   10
+y    0    0
+
+$valueFunctions$`Wyswietlacz cale`
+  [,1] [,2] [,3]
+x  9.7 10.5 12.9
+y  0.0  0.0  0.0
+
+$valueFunctions$`Procesor GHz`
+  [,1] [,2] [,3]
+x  1.8 2.26 2.30
+y  0.0 0.41 0.48
+
+$valueFunctions$`Pojemnosc GB`
+  [,1] [,2]   [,3]   [,4]
+x   64  128 256.00 512.00
+y    0    0   0.05   0.05
+
+$valueFunctions$`Pamiec_RAM GB`
+  [,1] [,2]
+x    2    4
+y    0    0
+
+$valueFunctions$Cena
+  [,1]    [,2]    [,3]    [,4]    [,5]    [,6]    [,7]    [,8]    [,9]
+x 6199 5399.00 5199.00 4699.00 4549.00 4399.00 3649.00 2999.00 2699.00
+y    0    0.03    0.05    0.06    0.06    0.06    0.07    0.07    0.47
+
+
+$overallValues
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                         0.59 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 256GB (szary)  
+                                                         0.58 
+ Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (srebrny)  
+                                                         0.54 
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 512GB (rozowe zloto)  
+                                                         0.56 
+      Apple iPad Pro 10,5cal Wi-Fi + Cellular 64GB (srebrny)  
+                                                         0.55 
+    Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (zloty) 
+                                                         0.54 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 512GB (zloty)  
+                                                         0.53 
+ Apple iPad Pro 9,7cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                         0.52 
+                  Apple iPad Wi-Fi + Cellular 128GB (srebrny) 
+                                                         0.48 
+                    Apple iPad Wi-Fi + Cellular 128GB (zloty) 
+                                                         0.47 
+
+$ranks
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                            1 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 256GB (szary)  
+                                                            2 
+ Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (srebrny)  
+                                                            5 
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 512GB (rozowe zloto)  
+                                                            3 
+      Apple iPad Pro 10,5cal Wi-Fi + Cellular 64GB (srebrny)  
+                                                            4 
+    Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (zloty) 
+                                                            5 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 512GB (zloty)  
+                                                            7 
+ Apple iPad Pro 9,7cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                            8 
+                  Apple iPad Wi-Fi + Cellular 128GB (srebrny) 
+                                                            9 
+                    Apple iPad Wi-Fi + Cellular 128GB (zloty) 
+                                                           10 
+
+$errors
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                         0.00 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 256GB (szary)  
+                                                         0.00 
+ Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (srebrny)  
+                                                         0.03 
+Apple iPad Pro 10,5cal Wi-Fi + Cellular 512GB (rozowe zloto)  
+                                                         0.00 
+      Apple iPad Pro 10,5cal Wi-Fi + Cellular 64GB (srebrny)  
+                                                         0.00 
+    Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 64GB (zloty) 
+                                                         0.00 
+  Apple iPad Pro 12,9cal 2gen Wi-Fi + Cellular 512GB (zloty)  
+                                                         0.00 
+ Apple iPad Pro 9,7cal Wi-Fi + Cellular 256GB (rozowe zloto)  
+                                                         0.00 
+                  Apple iPad Wi-Fi + Cellular 128GB (srebrny) 
+                                                         0.00 
+                    Apple iPad Wi-Fi + Cellular 128GB (zloty) 
+                                                         0.00 
+
+$Kendall
+[1] 0.8989331
